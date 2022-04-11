@@ -1,0 +1,24 @@
+3dfrk - https://assetstore.unity.com/publishers/33751
+Picture frames with pictures
+
+Azerilo - https://assetstore.unity.com/packages/3d/props/interior/free-rug-pack-118178
+Rug 1 and Rug 2
+
+Brick Project Studio - https://assetstore.unity.com/packages/3d/props/apartment-kit-124055
+Apartment Assets: Walls, Roof, Ceiling
+Furniture and Kitchen Prefabs
+Paintings and Lighting Props
+We made all the floorplans ourselves, and are simply using the assets from the pack, not the scene.
+
+Classic Picture Frame - https://assetstore.unity.com/packages/3d/props/furniture/classic-picture-frame-59038
+
+Import -
+
+Oculus - https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
+Assets for Oculus support
+
+QS - https://assetstore.unity.com/packages/2d/textures-materials/nature/nature-materials-vol-1-21113
+Grass Texture for the plane
+
+QuickOutline - Provided by TA
+For outlines
