@@ -14,15 +14,6 @@ public class FurnitureClick: MonoBehaviour
 
     public void OnClickButton()
     { 
-            selectFurniture.gameObject.SetActive(true);  
-            
-            // selectFurniture.transform.parent = parentCanvas.transform;
-            // selectFurniture.transform.localPosition = new Vector3(0, 2, 0);  
-            
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
+        selectFurniture.gameObject.SetActive(true);  
     }
 }

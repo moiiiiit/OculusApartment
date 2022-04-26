@@ -13,14 +13,14 @@ public class FloorPlanMenu : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-    }
-
-    public void OnClickButton()
-    {   
         searchMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Search UI");
         character = GameObject.Find("/OurOVRPlayerController");
         apartmentsMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Apartments UI");
         floorPlanMenu = GameObject.Find("/Main UI Group/FloorPlanCanvas/Floor Plan UI");
+    }
+
+    public void OnClickButton()
+    {   
         if (name == "FPButton1")
         {
             CharacterController cc = character.GetComponent<CharacterController>();
@@ -41,8 +41,4 @@ public class FloorPlanMenu : MonoBehaviour
         apartmentsMenu.SetActive(false);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-    }
 }

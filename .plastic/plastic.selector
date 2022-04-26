@@ -1,4 +1,0 @@
-repository "OculusApartment@apoorvapise@cloud"
-  path "/"
-    br "/main"
-    co "/main"

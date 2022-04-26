@@ -10,21 +10,16 @@ public class ApartmentsMenu : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        floorPlanMenu = GameObject.Find("/Main UI Group/FloorPlanCanvas/Floor Plan UI");
+        apartmentsMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Apartments UI");
     }
 
     public void OnClickButton()
     {
-        floorPlanMenu = GameObject.Find("/Main UI Group/FloorPlanCanvas/Floor Plan UI");
-        apartmentsMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Apartments UI");
         if (name == "Button")
         {
             apartmentsMenu.SetActive(false);
             floorPlanMenu.SetActive(true);
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
     }
 }

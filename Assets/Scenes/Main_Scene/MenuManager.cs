@@ -31,12 +31,4 @@ public class MenuManager : MonoBehaviour
         apartmentsMenu.SetActive(false);
         floorPlanMenu.SetActive(false);
     }
-
-    
-
-    // Update is called once per frame
-    void Update()
-    {  
-        
-    }
 }

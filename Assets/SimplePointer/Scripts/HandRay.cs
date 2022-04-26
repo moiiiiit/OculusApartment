@@ -13,7 +13,7 @@ public class HandRay : MonoBehaviour
     private bool toggledFlag = false;
     // Which trigger to get input from
     [Tooltip("Set to PrimaryIndexTrigger for left hand and SecondaryIndexTrigger for right hand")]
-    [SerializeField] private OVRInput.Button triggerButton = OVRInput.Button.PrimaryIndexTrigger;
+    [SerializeField] private OVRInput.Button triggerButton = OVRInput.Button.SecondaryIndexTrigger;
     // Reference to object raycast is hitting
     private GameObject currentTarget;
     // Reference to previousy hit object
