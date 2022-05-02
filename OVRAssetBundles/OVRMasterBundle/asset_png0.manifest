@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2143786239
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83920fa1e9568d01c2a389cee5eefcce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Main_Scene/Creatives/minimalist blue beach Welcome summer (Poster
+  (Landscape)).png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Interior Exterior/Ext_Apt_WallFloor_01_A.png
+- Assets/Classic Picture Frame/Textures/picture_d.png
+- Assets/Paintings/PaintingCollection2/Textures/Frame/Painting_S.png
+- Assets/3Dfrk/Frames with pictures/Textures/Paint_03.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/Painting_N.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Misc/Rug_N.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/CT_Marble_01_N.png
+- Assets/Paintings/PaintingCollection2/Textures/Frame/Painting_N.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/Plastic_N.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/CT_Marble_01_M.png
+- Assets/Scenes/FP1.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/BrushedMetal_N.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Misc/ControlPanel_apt.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/Plastic_A.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/CastIron_M.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/Brick Project Studio/SE Basic Assets/Textures/Wood Floor 01.png
+- Assets/Scenes/Main_Scene/Creatives/icons (7).png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/CastIron_A.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/CastIron_H.png
+- Assets/Azerilo/Free Rug Pack/Material/rugTexture1.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Misc/Pattern_01.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/BR_Tile_01_N.png
+- Assets/QS/QS-Textures-Grass-v1/Textures/QS-GRASS-8.1.png
+- Assets/Classic Picture Frame/Textures/picture_n.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Interior Exterior/Int_WB_01_Height.png
+- Assets/Scenes/Main_Scene/Creatives/icons (5).png
+- Assets/Scenes/Main_Scene/Creatives/icons (10).png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/CastIron_N.png
+Dependencies: []

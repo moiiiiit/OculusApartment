@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1265502933
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8eddf86040b2ca80a77b206643481eec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Brick Project Studio/Apartment Kit/Textures/Interior Exterior/Int_WB_01_Normal.png
+- Assets/3Dfrk/Frames with pictures/Textures/Paint_02.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Interior Exterior/Ext_Apt_WallFloor_01_N.png
+- Assets/Scenes/Main_Scene/Creatives/plans.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/CT_Marble_01_A.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/White Wood_normal.png
+- Assets/Scenes/Main_Scene/Creatives/icons (4).png
+- Assets/Paintings/PaintingCollection2/Textures/Image/Image.png
+- Assets/Scenes/Main_Scene/Creatives/search.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/Plastic_H.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/BrushedMetal_A.png
+- Assets/Scenes/Main_Scene/Creatives/icons (6).png
+- Assets/Scenes/Main_Scene/Creatives/icons (9).png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/BR_Tile_01_A.png
+- Assets/Scenes/Main_Scene/Creatives/icons.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Interior Exterior/Int_WB_01.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Surface/White Wood.png
+- Assets/Paintings/PaintingCollection2/Textures/Frame/Painting_A.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Misc/Rug_A.png
+- Assets/Azerilo/Free Rug Pack/Material/rugTexture2.png
+- Assets/Brick Project Studio/Apartment Kit/Textures/Misc/Pattern_02.png
+- Assets/Scenes/FP2.png
+Dependencies: []

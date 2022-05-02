@@ -15665,7 +15665,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114043904411177872, guid: a9d2de84afb308a4796cc671d3432b4d, type: 3}
       propertyPath: performSphereCastForGazepointer
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 120006741097097638, guid: a9d2de84afb308a4796cc671d3432b4d, type: 3}
       propertyPath: m_Enabled
@@ -32263,8 +32263,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 785242119462554477, guid: d3558717f301d6e4997336fbcb9cbbbf, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 785242119462554477, guid: d3558717f301d6e4997336fbcb9cbbbf, type: 3}
       propertyPath: m_CollisionDetection
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1560917517748914848, guid: d3558717f301d6e4997336fbcb9cbbbf, type: 3}
       propertyPath: m_Layer
@@ -39208,8 +39212,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5149041887347542028, guid: 73441239f9d62384f93a8c472edf199d, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5149041887347542028, guid: 73441239f9d62384f93a8c472edf199d, type: 3}
       propertyPath: m_CollisionDetection
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5723521750422875046, guid: 73441239f9d62384f93a8c472edf199d, type: 3}
       propertyPath: m_Layer
@@ -44907,8 +44915,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 785242119462554477, guid: d3558717f301d6e4997336fbcb9cbbbf, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 785242119462554477, guid: d3558717f301d6e4997336fbcb9cbbbf, type: 3}
       propertyPath: m_CollisionDetection
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1560917517748914848, guid: d3558717f301d6e4997336fbcb9cbbbf, type: 3}
       propertyPath: m_Layer
@@ -51637,8 +51649,12 @@ PrefabInstance:
       value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 800962327841747794, guid: 2e4a7541ceaf350409b1c19a581b5073, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 800962327841747794, guid: 2e4a7541ceaf350409b1c19a581b5073, type: 3}
       propertyPath: m_CollisionDetection
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1032877384167551795, guid: 2e4a7541ceaf350409b1c19a581b5073, type: 3}
       propertyPath: m_Layer
@@ -58503,8 +58519,12 @@ PrefabInstance:
       value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2359713564537838811, guid: 130dc724da253bd43a28a856349b79e0, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2359713564537838811, guid: 130dc724da253bd43a28a856349b79e0, type: 3}
       propertyPath: m_CollisionDetection
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2582478912924916916, guid: 130dc724da253bd43a28a856349b79e0, type: 3}
       propertyPath: m_Layer
@@ -58904,8 +58924,12 @@ PrefabInstance:
       value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 3719401444520306211, guid: 2b2df5fb8b2a317439726ac1c4c83b32, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3719401444520306211, guid: 2b2df5fb8b2a317439726ac1c4c83b32, type: 3}
       propertyPath: m_CollisionDetection
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5926917151912174187, guid: 2b2df5fb8b2a317439726ac1c4c83b32, type: 3}
       propertyPath: m_Layer
@@ -86451,8 +86475,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3254032129005642638, guid: d46fa1eeedbcb0e41b8c735b2594b434, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3254032129005642638, guid: d46fa1eeedbcb0e41b8c735b2594b434, type: 3}
       propertyPath: m_CollisionDetection
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6598145504586111875, guid: d46fa1eeedbcb0e41b8c735b2594b434, type: 3}
       propertyPath: m_Layer

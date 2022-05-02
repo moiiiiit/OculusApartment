@@ -3,6 +3,5 @@ Library/
 Temp/
 obj/
 *.meta
-OVRAssetBundles/
 .plastic/plastic.wktree
 *.branchexplorer

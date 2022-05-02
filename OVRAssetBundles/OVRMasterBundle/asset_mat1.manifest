@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2889657951
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ccb417b8f71def223b440fd6780ceff0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Brick Project Studio/Apartment Kit/Materials/Misc/Rug.mat
+- Assets/QS/QS-Textures-Grass-v1/Materials/QS-GRASS-8.1.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/Plastic_02.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Interior Exterior/Int_Apt_01.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Misc/ControlPanel.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Misc/Canvas_Painting_02.mat
+- Assets/Brick Project Studio/SE Basic Assets/Materials/Black.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/Mirror.mat
+- Assets/SimplePointer/M_Transparent.mat
+Dependencies:
+- C:/Users/Mohit Bhole/OculusApartment/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Mohit Bhole/OculusApartment/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Mohit Bhole/OculusApartment/OVRAssetBundles/OVRMasterBundle/asset_tga0

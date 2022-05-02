@@ -31,8 +31,6 @@ public class FurnitureManipulation : MonoBehaviour
                 buttonHeld = false;
                 buttonDownTimer = 0;
                 transform.position = new Vector3(transform.position.x, 0.14f, transform.position.z);
-                GetComponent<Rigidbody>().isKinematic = false;
-                GetComponent<Rigidbody>().collisionDetectionMode = CollisionDetectionMode.Discrete;
                 triggerFlag = false;
             }
             else if (OVRInput.GetDown(OVRInput.Button.SecondaryIndexTrigger))
@@ -46,8 +44,6 @@ public class FurnitureManipulation : MonoBehaviour
                 if (buttonDownTimer >= requiredDownTimer && !buttonHeld)
                 {
                     buttonHeld = true;
-                    GetComponent<Rigidbody>().isKinematic = true;
-                    GetComponent<Rigidbody>().collisionDetectionMode = CollisionDetectionMode.Continuous;
                 }
             }
         }

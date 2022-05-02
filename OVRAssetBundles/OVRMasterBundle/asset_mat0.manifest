@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 181757095
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5442fd66647f3ea936dc9e13607cea5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/LampShade_On.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/BR_Tile_01.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/Cabinets_02.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/Cabinets_01.mat
+- Assets/Paintings/PaintingCollection2/Materials/Frame.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/Shiny Metal_01.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Brick Project Studio/SE Basic Assets/Materials/Wood Floor 01.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Misc/Canvas_Painting_01.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/Porcelain_01.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/Brushed Metal_Gold.mat
+- Assets/Classic Picture Frame/art.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/CastIron_01.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Interior Exterior/Ext_Apt_01.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/CounterTop_01.mat
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/DebugDrawLine.mat
+- Assets/3Dfrk/Frames with pictures/Materials/Paint_03.mat
+- Assets/3Dfrk/Frames with pictures/Materials/Paint_02.mat
+- Assets/Azerilo/Free Rug Pack/Material/Material1.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/WhiteFridge.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/Brushed Metal_Chrome.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/Plastic_01.mat
+- Assets/Brick Project Studio/SE Basic Assets/Materials/Light Wall 01.mat
+- Assets/Azerilo/Free Rug Pack/Material/Material2.mat
+- Assets/Brick Project Studio/SE Basic Assets/Materials/glass 02.mat
+- Assets/Paintings/PaintingCollection2/Materials/Image.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/Antique.mat
+- Assets/Classic Picture Frame/picture.mat
+- Assets/Brick Project Studio/Apartment Kit/Materials/Surface/White Wood.mat
+Dependencies:
+- C:/Users/Mohit Bhole/OculusApartment/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/Mohit Bhole/OculusApartment/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Mohit Bhole/OculusApartment/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Mohit Bhole/OculusApartment/OVRAssetBundles/OVRMasterBundle/asset_tga0
