@@ -673,3 +673,375 @@ Received Import Request.
   path: Assets/kitchen props/prefabs/plate-stack-large.prefab
   artifactKey: Guid(d27f67e930be4c64db19d14ca6201d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/kitchen props/prefabs/plate-stack-large.prefab using Guid(d27f67e930be4c64db19d14ca6201d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '181d05c9a17f1d13ab1936de0c7b4519') in 0.006483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 584.459076 seconds.
+  path: Assets/Free Homewares Asset Pack/Models/Baseblock.fbx
+  artifactKey: Guid(f47b8c3c82ff445449bf7832a725a3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Models/Baseblock.fbx using Guid(f47b8c3c82ff445449bf7832a725a3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f47c82efa771f7f99b0307b7a6d71baa') in 0.289533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000743 seconds.
+  path: Assets/Free Homewares Asset Pack/Models/ReceptacleDouble.fbx
+  artifactKey: Guid(ac5ed32e8459a794891dafcc6929a49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Models/ReceptacleDouble.fbx using Guid(ac5ed32e8459a794891dafcc6929a49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d603fabdb8c0b262c42f39ea1472bd0') in 0.110595 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Free Homewares Asset Pack/Models/Casing3.fbx
+  artifactKey: Guid(bc8263dce4074f84a943e4ecedd7bf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Models/Casing3.fbx using Guid(bc8263dce4074f84a943e4ecedd7bf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5344c82ed67867e0f60e0285edcc66d') in 0.044754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000687 seconds.
+  path: Assets/Free Homewares Asset Pack/Models/Casing2.fbx
+  artifactKey: Guid(cebaabff926aa5d429469e06d18ff3f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Models/Casing2.fbx using Guid(cebaabff926aa5d429469e06d18ff3f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab7ade5909fc95fa7defa2353ad14cb') in 0.039964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Free Homewares Asset Pack/Models/Casing1.fbx
+  artifactKey: Guid(cd22c348df29bd940856316f0b7236a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Models/Casing1.fbx using Guid(cd22c348df29bd940856316f0b7236a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12aced705c7eca4ffc2ff264c09ec411') in 0.035408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Free Homewares Asset Pack/Models/BaseBoard1.fbx
+  artifactKey: Guid(2865a0f692f1bce47b2677330fceabee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Models/BaseBoard1.fbx using Guid(2865a0f692f1bce47b2677330fceabee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66da0b25a5855df87f5500924471df8b') in 0.036313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Free Homewares Asset Pack/Models/CrownMoulding1.fbx
+  artifactKey: Guid(f2c20f431d63082418e8d80f8e81a3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Models/CrownMoulding1.fbx using Guid(f2c20f431d63082418e8d80f8e81a3a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72ba75dd6bd6b5e0859ea31704b8eed') in 0.036838 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Free Homewares Asset Pack/Models/CrownMoulding2.fbx
+  artifactKey: Guid(44eb0e363613c684289b50f8f066d9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Models/CrownMoulding2.fbx using Guid(44eb0e363613c684289b50f8f066d9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699f7cde35e4d68b1eb148c268e72d6a') in 0.032550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Free Homewares Asset Pack/Models/Baseboard3.fbx
+  artifactKey: Guid(52a8d0b94b28c5249ba27b9c7d0acad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Models/Baseboard3.fbx using Guid(52a8d0b94b28c5249ba27b9c7d0acad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '883dfbb7baccfaa23f9980c9641a5ceb') in 0.037443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Free Homewares Asset Pack/Models/LightSwitchDouble.fbx
+  artifactKey: Guid(1e4c02d415c9eaf4a9fd3c17bee51bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Models/LightSwitchDouble.fbx using Guid(1e4c02d415c9eaf4a9fd3c17bee51bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fefb9a5025e542287418b94a2cda5ff') in 0.060796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 97.805566 seconds.
+  path: Assets/Free Homewares Asset Pack/Prefabs/Baseblock.prefab
+  artifactKey: Guid(7e16d678c2250d14a82789d6c52b6020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Prefabs/Baseblock.prefab using Guid(7e16d678c2250d14a82789d6c52b6020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c107a63c87ad5f09a1d6f0cf7ead5c42') in 0.023500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Free Homewares Asset Pack/Prefabs/Baseboard2.prefab
+  artifactKey: Guid(ab61004414c87eb45ba0b6de16c468b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Prefabs/Baseboard2.prefab using Guid(ab61004414c87eb45ba0b6de16c468b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485ad0d6f6330067f5b2fcd6e9ad3e24') in 0.010574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Free Homewares Asset Pack/Prefabs/Baseboard3.prefab
+  artifactKey: Guid(9c3a0d49e9b50f84d8d8b57a2c77b08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Prefabs/Baseboard3.prefab using Guid(9c3a0d49e9b50f84d8d8b57a2c77b08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee711ce35dfd35b6d143ddc6fa7fbb32') in 0.008654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Free Homewares Asset Pack/Prefabs/Casing2.prefab
+  artifactKey: Guid(b9b7c1efa0c288045acd738aaecdcca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Prefabs/Casing2.prefab using Guid(b9b7c1efa0c288045acd738aaecdcca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a3a3f9753d708088a1892a72bf79b5') in 0.011374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Free Homewares Asset Pack/Prefabs/Casing1.prefab
+  artifactKey: Guid(e89215b0816d674499152a4dcd737402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Prefabs/Casing1.prefab using Guid(e89215b0816d674499152a4dcd737402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03836f64dce890e8a437321a677262d3') in 0.009353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Free Homewares Asset Pack/Prefabs/ReceptacleDouble.prefab
+  artifactKey: Guid(53391668c0f02d54f8ae7cd05d661f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Prefabs/ReceptacleDouble.prefab using Guid(53391668c0f02d54f8ae7cd05d661f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea8144e397fd30bd8ab8df53669fcb2') in 0.012747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Free Homewares Asset Pack/Prefabs/BaseBoard1.prefab
+  artifactKey: Guid(bcb5f2c833f93e24fa245a50f1560ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Prefabs/BaseBoard1.prefab using Guid(bcb5f2c833f93e24fa245a50f1560ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '865b3d404c7dad4fb4a0bdae0621bc15') in 0.009658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Free Homewares Asset Pack/Prefabs/ReceptacleTripple.prefab
+  artifactKey: Guid(778ebb3f2c2692a40b4ac813b3f11dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Prefabs/ReceptacleTripple.prefab using Guid(778ebb3f2c2692a40b4ac813b3f11dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a50ee4fbdc0e3baeba10d824ec5620') in 0.012829 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Free Homewares Asset Pack/Prefabs/Thermostat.prefab
+  artifactKey: Guid(ce19cf82d2f27fb46a2cd0d2402f0ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Prefabs/Thermostat.prefab using Guid(ce19cf82d2f27fb46a2cd0d2402f0ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f5dee1aca614e753e748f37bd4a505a') in 0.018326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 177.892802 seconds.
+  path: Assets/Free Homewares Asset Pack/Materials/HetaerBackPlate1.mat
+  artifactKey: Guid(bb99936dfd8407240bd90768c52fbb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Materials/HetaerBackPlate1.mat using Guid(bb99936dfd8407240bd90768c52fbb33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48086d61ad50830020d582d98f3af193') in 0.029398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Free Homewares Asset Pack/Materials/WhiteSemiGlossPaint.mat
+  artifactKey: Guid(24b19f3805b2c644ca4ed38f943c221d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Materials/WhiteSemiGlossPaint.mat using Guid(24b19f3805b2c644ca4ed38f943c221d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4b647c8886f232231f6ffc43d2b27f') in 0.010008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Free Homewares Asset Pack/Materials/WhiteVinyl.mat
+  artifactKey: Guid(977fce48fc80bc7459c0b41d0042cee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Materials/WhiteVinyl.mat using Guid(977fce48fc80bc7459c0b41d0042cee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ccded279591d8e730ec3dc05ed12356') in 0.010722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Free Homewares Asset Pack/Materials/ThermostatDial.mat
+  artifactKey: Guid(a4cecd54745595f4b93d0161fee2cf92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Materials/ThermostatDial.mat using Guid(a4cecd54745595f4b93d0161fee2cf92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f12c8d09f03f113006f704410b5d78a') in 0.010645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Free Homewares Asset Pack/Materials/Wall.mat
+  artifactKey: Guid(87fa2da3e872e244791d4b996c215353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Homewares Asset Pack/Materials/Wall.mat using Guid(87fa2da3e872e244791d4b996c215353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19472bf8acb0930f023077394fadda1f') in 0.009088 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004074 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 7.49 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 8.76 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.406 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5418ms)
+		BeginReloadAssembly (1463ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (157ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (610ms)
+		EndReloadAssembly (3490ms)
+			LoadAssemblies (802ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (463ms)
+			ReleaseScriptCaches (7ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (2198ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (125ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (16ms)
+				BeforeProcessingInitializeOnLoad (194ms)
+				ProcessInitializeOnLoadAttributes (1577ms)
+				ProcessInitializeOnLoadMethodAttributes (273ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (9ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (36ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 5.92 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.98 ms.
+Unloading 2816 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 46 unused Assets / (427.0 KB). Loaded Objects now: 3420.
+Memory consumption went from 245.8 MB to 245.4 MB.
+Total: 6.305125 ms (FindLiveObjects: 0.260917 ms CreateObjectMapping: 0.092958 ms MarkObjects: 5.347000 ms  DeleteObjects: 0.603250 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001408 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 12.53 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.564 seconds
+Domain Reload Profiling:
+	ReloadAssembly (8580ms)
+		BeginReloadAssembly (1789ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (135ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (533ms)
+		EndReloadAssembly (6270ms)
+			LoadAssemblies (1624ms)
+			RebuildTransferFunctionScriptingTraits (2ms)
+			SetupTypeCache (391ms)
+			ReleaseScriptCaches (6ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (4424ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (227ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (14ms)
+				BeforeProcessingInitializeOnLoad (247ms)
+				ProcessInitializeOnLoadAttributes (3645ms)
+				ProcessInitializeOnLoadMethodAttributes (282ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 4.48 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 1.37 ms.
+Unloading 2816 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 46 unused Assets / (426.9 KB). Loaded Objects now: 3424.
+Memory consumption went from 246.1 MB to 245.6 MB.
+Total: 7.694708 ms (FindLiveObjects: 0.249792 ms CreateObjectMapping: 0.099875 ms MarkObjects: 6.162125 ms  DeleteObjects: 1.181292 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001330 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 6.97 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.360 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5363ms)
+		BeginReloadAssembly (974ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (96ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (350ms)
+		EndReloadAssembly (3744ms)
+			LoadAssemblies (611ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (383ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (2412ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (258ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (8ms)
+				BeforeProcessingInitializeOnLoad (171ms)
+				ProcessInitializeOnLoadAttributes (1827ms)
+				ProcessInitializeOnLoadMethodAttributes (141ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 4.10 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.38 ms.
+Unloading 2816 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 46 unused Assets / (427.1 KB). Loaded Objects now: 3428.
+Memory consumption went from 246.3 MB to 245.8 MB.
+Total: 3.169083 ms (FindLiveObjects: 0.311583 ms CreateObjectMapping: 0.064791 ms MarkObjects: 2.509459 ms  DeleteObjects: 0.282000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.019750 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.74 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.277 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3282ms)
+		BeginReloadAssembly (506ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (84ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (133ms)
+		EndReloadAssembly (2423ms)
+			LoadAssemblies (400ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (323ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (1466ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (97ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (129ms)
+				ProcessInitializeOnLoadAttributes (1093ms)
+				ProcessInitializeOnLoadMethodAttributes (141ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 2.59 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.45 ms.
+Unloading 2816 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 46 unused Assets / (435.0 KB). Loaded Objects now: 3432.
+Memory consumption went from 246.5 MB to 246.1 MB.
+Total: 3.986417 ms (FindLiveObjects: 0.246708 ms CreateObjectMapping: 0.077916 ms MarkObjects: 2.703250 ms  DeleteObjects: 0.957291 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
