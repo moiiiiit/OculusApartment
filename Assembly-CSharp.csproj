@@ -597,6 +597,9 @@
     <Reference Include="SketchfabPlugin">
       <HintPath>Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="Ionic.Zip.Unity">
       <HintPath>Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll</HintPath>
     </Reference>

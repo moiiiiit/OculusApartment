@@ -329,6 +329,9 @@
     <Reference Include="SketchfabPlugin">
       <HintPath>Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="log4netPlastic">
       <HintPath>Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
