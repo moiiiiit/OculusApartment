@@ -55165,7 +55165,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1953921071781253255, guid: dee882c2c6957634384419591031adbf, type: 3}
       propertyPath: minRenderScale
-      value: 0.5
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: 1953921071781253255, guid: dee882c2c6957634384419591031adbf, type: 3}
       propertyPath: mrcActivationMode
@@ -55173,7 +55173,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1953921071781253263, guid: dee882c2c6957634384419591031adbf, type: 3}
       propertyPath: Acceleration
-      value: 0.2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1953921071781253263, guid: dee882c2c6957634384419591031adbf, type: 3}
       propertyPath: SnapRotation
@@ -55185,7 +55185,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1953921071781253263, guid: dee882c2c6957634384419591031adbf, type: 3}
       propertyPath: RotationRatchet
-      value: 10
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 1953921071781446861, guid: dee882c2c6957634384419591031adbf, type: 3}
       propertyPath: speedRotationIncrement
