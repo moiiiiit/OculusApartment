@@ -15,7 +15,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 1
-    y: 54
+    y: 53
     width: 1440
     height: 778
   m_ShowMode: 4
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 19
+  controlID: 28
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 20
+  controlID: 29
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -276,7 +276,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 21
+  controlID: 30
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -401,22 +401,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Kitchen table with chair/Models
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Kitchen table with chair/Models
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/srividhyaranganathan/Documents/GitHub/OculusApartment
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9c9f0000
-    m_LastClickedID: 40860
-    m_ExpandedIDs: 0000000000ca9a3b
+    scrollPos: {x: 0, y: 11}
+    m_SelectedIDs: 9aa00000
+    m_LastClickedID: 41114
+    m_ExpandedIDs: 000000002a9f000098a0000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -471,7 +471,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -561,8 +561,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 19
+    x: 1
+    y: 83
     width: 276.5
     height: 389
   m_ViewDataDictionary: {fileID: 0}
@@ -572,9 +572,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 826b0000
-      m_LastClickedID: 27522
-      m_ExpandedIDs: 32fbffff
+      m_SelectedIDs: 32fbffff
+      m_LastClickedID: -1230
+      m_ExpandedIDs: 32fbffff906100006a670000826b0000fa6c0000886d0000fa6d00008c770000a67b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -619,7 +619,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 278.5
-    y: 84
+    y: 83
     width: 625
     height: 389
   m_ViewDataDictionary: {fileID: 0}
@@ -823,9 +823,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.4144554, y: -2.692112, z: -38.78107}
+    m_Target: {x: -22.01092, y: 1.0971695, z: -32.292007}
     speed: 2
-    m_Value: {x: -1.4144554, y: -2.692112, z: -38.78107}
+    m_Value: {x: -22.01092, y: 1.0971695, z: -32.292007}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -872,13 +872,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.03418404, y: 0.7646254, z: -0.04059279, w: 0.6423474}
+    m_Target: {x: 0.043457456, y: 0.75625557, z: -0.050396074, w: 0.6509499}
     speed: 2
-    m_Value: {x: 0.034182698, y: 0.7645954, z: -0.0405912, w: 0.6423222}
+    m_Value: {x: 0.043455575, y: 0.75622284, z: -0.050393894, w: 0.6509217}
   m_Size:
-    m_Target: 21.999384
+    m_Target: 6.036714
     speed: 2
-    m_Value: 21.999384
+    m_Value: 6.036714
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -924,7 +924,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 905.5
-    y: 84
+    y: 83
     width: 227.5
     height: 389
   m_ViewDataDictionary: {fileID: 0}
