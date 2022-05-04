@@ -1,9 +1,4 @@
 Library/
 Temp/
 Logs/
-UserSettings/
 *.apk
-*.Temp
-*.tmp
-*.log
-*.meta

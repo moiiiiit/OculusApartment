@@ -89405,29 +89405,26 @@ MonoBehaviour:
   m_GameObject: {fileID: 2002883402}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 93b7825696a2e5f4bbee5b8137d14389, type: 3}
+  m_Script: {fileID: 11500000, guid: afc5fa31b2a58e84b97c1c98a9c1bdb7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deviceRole: 3
-  button: 9
-  OnPress:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2002883404}
-        m_TargetAssemblyTypeName: ControllerButtons, Assembly-CSharp
-        m_MethodName: OnClickButton
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-  OnRelease:
+  primaryButtonPress:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &2002883406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2002883402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5696a55fa95807441891a7bf5197db5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  watcher: {fileID: 0}
+  IsPressed: 0
 --- !u!1 &2003862523
 GameObject:
   m_ObjectHideFlags: 0
