@@ -14,7 +14,7 @@ public class FloorPlanMenu : MonoBehaviour
     void Start()
     {
         searchMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Search UI");
-        character = GameObject.Find("/OurOVRPlayerController");
+        character = GameObject.Find("/XR");
         apartmentsMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Apartments UI");
         floorPlanMenu = GameObject.Find("/Main UI Group/FloorPlanCanvas/Floor Plan UI");
     }
@@ -23,18 +23,12 @@ public class FloorPlanMenu : MonoBehaviour
     {   
         if (name == "FPButton1")
         {
-            CharacterController cc = character.GetComponent<CharacterController>();
-            cc.enabled = false;
             character.transform.position = new Vector3(3,2,25);
             character.transform.rotation = Quaternion.Euler(0, -90, 0);
-            cc.enabled = true;
         }
         else if (name == "FPButton2")
         {
-            CharacterController cc = character.GetComponent<CharacterController>();
-            cc.enabled = false;
             character.transform.position = new Vector3(3,2,-30);
-            cc.enabled = true;
         }
         floorPlanMenu.SetActive(false);
         searchMenu.SetActive(false);

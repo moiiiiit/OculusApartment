@@ -40616,7 +40616,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963851358}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: -0.19884732, z: 9}
+  m_LocalPosition: {x: 0, y: -0.19884732, z: 1.258}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -64486,8 +64486,9 @@ GameObject:
   - component: {fileID: 1477011273}
   - component: {fileID: 1477011277}
   - component: {fileID: 1477011276}
-  - component: {fileID: 1477011275}
   - component: {fileID: 1477011274}
+  - component: {fileID: 1477011279}
+  - component: {fileID: 1477011278}
   m_Layer: 5
   m_Name: SelectFurniture
   m_TagString: Untagged
@@ -64530,25 +64531,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c14466b4d3d28e44b3a05765b421b3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1477011275
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1477011272}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7aaf960227867044282d921171d2d7ac, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  pointer: {fileID: 0}
-  sortOrder: 0
 --- !u!114 &1477011276
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64593,6 +64575,42 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &1477011278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1477011272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7951c64acb0fa62458bf30a60089fe2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 0
+  m_CheckFor2DOcclusion: 0
+  m_CheckFor3DOcclusion: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RaycastTriggerInteraction: 1
+--- !u!114 &1477011279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1477011272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
 --- !u!1001 &1478881830
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -71955,7 +71973,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7401923441284125122, guid: ba074cf4b261d9a4882932e86021742c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.1499996
+      value: 5.82
       objectReference: {fileID: 0}
     - target: {fileID: 7401923441284125122, guid: ba074cf4b261d9a4882932e86021742c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -76426,8 +76444,9 @@ GameObject:
   - component: {fileID: 1751826160}
   - component: {fileID: 1751826164}
   - component: {fileID: 1751826163}
-  - component: {fileID: 1751826162}
   - component: {fileID: 1751826161}
+  - component: {fileID: 1751826166}
+  - component: {fileID: 1751826165}
   m_Layer: 5
   m_Name: SelectFurniture
   m_TagString: Untagged
@@ -76470,25 +76489,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c14466b4d3d28e44b3a05765b421b3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1751826162
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1751826159}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7aaf960227867044282d921171d2d7ac, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  pointer: {fileID: 0}
-  sortOrder: 0
 --- !u!114 &1751826163
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -76533,6 +76533,42 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &1751826165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1751826159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7951c64acb0fa62458bf30a60089fe2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 0
+  m_CheckFor2DOcclusion: 0
+  m_CheckFor3DOcclusion: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RaycastTriggerInteraction: 1
+--- !u!114 &1751826166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1751826159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
 --- !u!1 &1755874882
 GameObject:
   m_ObjectHideFlags: 0

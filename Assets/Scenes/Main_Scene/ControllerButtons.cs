@@ -9,7 +9,6 @@ public class ControllerButtons : MonoBehaviour
     private GameObject apartmentsMenu;
     private GameObject floorPlanMenu;
     private GameObject character;
-    private CharacterController cc;
 
     // Start is called before the first frame update
     void Start()
@@ -35,7 +34,6 @@ public class ControllerButtons : MonoBehaviour
             }
         }
         character = GameObject.Find("/OurOVRPlayerController");
-        CharacterController cc = character.GetComponent<CharacterController>();
         searchMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Search UI");
         apartmentsMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Apartments UI");
         floorPlanMenu = GameObject.Find("/Main UI Group/FloorPlanCanvas/Floor Plan UI");
@@ -56,10 +54,8 @@ public class ControllerButtons : MonoBehaviour
                         searchMenu.SetActive(false);
                         apartmentsMenu.SetActive(false);
                         floorPlanMenu.SetActive(true);
-                        cc.enabled = false;
                         character.transform.position = new Vector3(32, 2, 0);
                         character.transform.rotation = Quaternion.Euler(0, -90, 0);
-                        cc.enabled = true;
                     }
                     else
                     {   //Floorplan open, go to apartments
@@ -80,10 +76,8 @@ public class ControllerButtons : MonoBehaviour
         {  //A: Go to home
             if (!searchMenu.active && !apartmentsMenu.active && !floorPlanMenu.active)
             {      //Teleport to Main room
-                cc.enabled = false;
                 character.transform.position = new Vector3(32, 2, 0);
                 character.transform.rotation = Quaternion.Euler(0, -90, 0);
-                cc.enabled = true;
             }
             searchMenu.SetActive(true);
             apartmentsMenu.SetActive(false);
