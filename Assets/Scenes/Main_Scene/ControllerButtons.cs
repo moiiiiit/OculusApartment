@@ -29,14 +29,14 @@ public class ControllerButtons : MonoBehaviour
                 }
             }
         }
-        character = GameObject.Find("/OurOVRPlayerController");
+        character = GameObject.Find("/XR");
         searchMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Search UI");
         apartmentsMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Apartments UI");
         floorPlanMenu = GameObject.Find("/Main UI Group/FloorPlanCanvas/Floor Plan UI");
     }
 
     // Update is called once per frame
-    void Update()
+    public void OnClickButton()
     {
         if (OVRInput.GetDown(OVRInput.Button.Two))
         {  //B: Go back
