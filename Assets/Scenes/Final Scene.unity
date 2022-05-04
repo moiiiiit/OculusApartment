@@ -54606,9 +54606,9 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents:
-    - {fileID: 251321032774381222, guid: 1a4381f2a19b86e46a4ce882fdad1539, type: 3}
-    - {fileID: 251321032039860645, guid: 1a4381f2a19b86e46a4ce882fdad1539, type: 3}
-    - {fileID: 251321031619025439, guid: 1a4381f2a19b86e46a4ce882fdad1539, type: 3}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: 1a4381f2a19b86e46a4ce882fdad1539, type: 3}
 --- !u!1 &1249317478
 GameObject:
@@ -89405,26 +89405,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 2002883402}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: afc5fa31b2a58e84b97c1c98a9c1bdb7, type: 3}
+  m_Script: {fileID: 11500000, guid: c83ccbe7273a1994fbd4794d007a9a00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  primaryButtonPress:
-    m_PersistentCalls:
-      m_Calls: []
---- !u!114 &2002883406
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2002883402}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5696a55fa95807441891a7bf5197db5a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  watcher: {fileID: 0}
-  IsPressed: 0
 --- !u!1 &2003862523
 GameObject:
   m_ObjectHideFlags: 0

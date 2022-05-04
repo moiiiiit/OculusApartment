@@ -20,12 +20,18 @@ public class InputReader : MonoBehaviour
     {
 
         //InputDevices.GetDevices(inputDevices);
-        InputDevices.GetDevicesWithCharacteristics(InputDeviceCharacteristics.Right | InputDeviceCharacteristics.Controller, inputDevices);
+        InputDevices.GetDevicesWithCharacteristics( InputDeviceCharacteristics.Controller, inputDevices);
 
         foreach (var inputDevice in inputDevices)
         {
-            inputDevice.TryGetFeatureValue(CommonUsages.trigger, out float triggerValue);
-            Debug.Log(inputDevice.name + " " + triggerValue);
+            if (inputDevice.TryGetFeatureValue(CommonUsages.trigger, out float triggerValue)&&triggerValue!=0){
+                Debug.Log(inputDevice.name + " " + triggerValue);
+                Instantiate(GameObject.Find("/Furniture/Chair"), new Vector3(-0.36f,0.1f,-1.8390f), Quaternion.identity);
+            }
+            if (inputDevice.TryGetFeatureValue(CommonUsages.primaryButton, out bool buttonV)&&buttonV!=false){
+                Debug.Log(inputDevice.name + " ");
+                Instantiate(GameObject.Find("/Furniture/DinChair"), new Vector3(-0.36f,0.1f,-1.8390f), Quaternion.identity);
+            }
 
             //Debug.Log(inputDevice.name + " " + inputDevice.characteristics);
         }
