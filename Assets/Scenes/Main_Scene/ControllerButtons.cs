@@ -13,10 +13,6 @@ public class ControllerButtons : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if (OVRManager.display.displayFrequenciesAvailable.Contains(90f))
-        {
-            OVRManager.display.displayFrequency = 90f;
-        }
         if (Unity.XR.Oculus.Performance.TryGetDisplayRefreshRate(out var rate))
         {
             float newRate = 90f; // fallback to this value if the query fails.
@@ -54,7 +50,7 @@ public class ControllerButtons : MonoBehaviour
                         searchMenu.SetActive(false);
                         apartmentsMenu.SetActive(false);
                         floorPlanMenu.SetActive(true);
-                        character.transform.position = new Vector3(32, 2, 0);
+                        character.transform.position = new Vector3(32, 1.5f, 0);
                         character.transform.rotation = Quaternion.Euler(0, -90, 0);
                     }
                     else
@@ -76,7 +72,7 @@ public class ControllerButtons : MonoBehaviour
         {  //A: Go to home
             if (!searchMenu.active && !apartmentsMenu.active && !floorPlanMenu.active)
             {      //Teleport to Main room
-                character.transform.position = new Vector3(32, 2, 0);
+                character.transform.position = new Vector3(32, 1.5f, 0);
                 character.transform.rotation = Quaternion.Euler(0, -90, 0);
             }
             searchMenu.SetActive(true);

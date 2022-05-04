@@ -23,12 +23,12 @@ public class FloorPlanMenu : MonoBehaviour
     {   
         if (name == "FPButton1")
         {
-            character.transform.position = new Vector3(3,2,25);
+            character.transform.position = new Vector3(3,1.5f,25);
             character.transform.rotation = Quaternion.Euler(0, -90, 0);
         }
         else if (name == "FPButton2")
         {
-            character.transform.position = new Vector3(3,2,-30);
+            character.transform.position = new Vector3(3,1.5f,-30);
         }
         floorPlanMenu.SetActive(false);
         searchMenu.SetActive(false);
