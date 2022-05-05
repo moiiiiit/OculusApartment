@@ -16802,6 +16802,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1048662942}
     m_Modifications:
+    - target: {fileID: 1871082972326676950, guid: 1c4151658ec90d54e861d0a34461ba21, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2015877580865809817, guid: 1c4151658ec90d54e861d0a34461ba21, type: 3}
       propertyPath: m_RootOrder
       value: 36
@@ -16850,7 +16854,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: LightSwitchSingle
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1871082972326676950, guid: 1c4151658ec90d54e861d0a34461ba21, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 1c4151658ec90d54e861d0a34461ba21, type: 3}
 --- !u!1 &403870586 stripped
 GameObject:
@@ -128820,6 +128825,7 @@ GameObject:
   - component: {fileID: 8881964684095954574}
   - component: {fileID: 8881964684095954575}
   - component: {fileID: 8881964684095954578}
+  - component: {fileID: 8881964684095954579}
   m_Layer: 10
   m_Name: Door.001
   m_TagString: Untagged
@@ -128944,7 +128950,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 26
   m_SelectMode: 0
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
@@ -128968,13 +128974,13 @@ MonoBehaviour:
   m_SelectEntered:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 8881964684095954579}
+        m_TargetAssemblyTypeName: BackDoor, Assembly-CSharp
+        m_MethodName: OnDoorSelect
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -129016,6 +129022,18 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &8881964684095954579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8881964684095954570}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a1eaf2984e18e945a884d16d5552aec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &8881964684099741126
 Transform:
   m_ObjectHideFlags: 0
