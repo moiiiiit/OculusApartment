@@ -8,27 +8,33 @@ public class FloorPlanMenu : MonoBehaviour
     private GameObject apartmentsMenu;
     private GameObject searchMenu;
     private GameObject character;
+    private CharacterController cc;
 
 
     // Start is called before the first frame update
     void Start()
     {
         searchMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Search UI");
-        character = GameObject.Find("/XR");
+        character = GameObject.Find("/XR/XR Origin");
         apartmentsMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Apartments UI");
         floorPlanMenu = GameObject.Find("/Main UI Group/FloorPlanCanvas/Floor Plan UI");
     }
 
     public void OnClickButton()
     {   
+        CharacterController cc = character.GetComponent<CharacterController>();
         if (name == "FPButton1")
         {
+            cc.enabled = false;
             character.transform.position = new Vector3(1.5f+3.22f,1.52f,25-2.75f);
             character.transform.rotation = Quaternion.Euler(0, -90, 0);
+            cc.enabled = true;
         }
         else if (name == "FPButton2")
         {
+            cc.enabled = false;
             character.transform.position = new Vector3(3,1.52f,-30);
+            cc.enabled = true;
         }
         floorPlanMenu.SetActive(false);
         searchMenu.SetActive(false);

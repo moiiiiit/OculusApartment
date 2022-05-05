@@ -10,6 +10,7 @@ public class MenuManager : MonoBehaviour
     private GameObject mainUIGroup;
     private GameObject character;
     private GameObject backButton;
+    private CharacterController cc;
     
     // Start is called before the first frame update
     void Start()
@@ -19,9 +20,12 @@ public class MenuManager : MonoBehaviour
 
     private void SetupPanels()
     {
-        character = GameObject.Find("/XR");
+        character = GameObject.Find("/XR/XR Origin");
+        CharacterController cc = character.GetComponent<CharacterController>();
+        cc.enabled = false;
         character.transform.position = new Vector3(32-1.65f,1.52f,-2.38f);
         character.transform.rotation = Quaternion.Euler(0, -90, 0);
+        cc.enabled = true;
         searchMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Search UI");
         apartmentsMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Apartments UI");
         floorPlanMenu = GameObject.Find("/Main UI Group/FloorPlanCanvas/Floor Plan UI");

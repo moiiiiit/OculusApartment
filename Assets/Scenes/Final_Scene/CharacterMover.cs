@@ -10,6 +10,7 @@ public class CharacterMover : MonoBehaviour
     void Start()
     {
         CharacterController cc = XROrigin.GetComponent<CharacterController>();
+        cc.enabled = true;
         cc.attachedRigidbody.mass = 0;
     }
 
