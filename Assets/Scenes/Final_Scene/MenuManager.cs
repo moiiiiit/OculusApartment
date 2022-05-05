@@ -9,6 +9,7 @@ public class MenuManager : MonoBehaviour
     private GameObject floorPlanMenu;
     private GameObject mainUIGroup;
     private GameObject character;
+    private GameObject backButton;
     
     // Start is called before the first frame update
     void Start()
@@ -24,8 +25,10 @@ public class MenuManager : MonoBehaviour
         searchMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Search UI");
         apartmentsMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Apartments UI");
         floorPlanMenu = GameObject.Find("/Main UI Group/FloorPlanCanvas/Floor Plan UI");
+        backButton = GameObject.Find("/Main UI Group/BackButtonCanvas/BackButton");
         searchMenu.SetActive(true);
         apartmentsMenu.SetActive(false);
         floorPlanMenu.SetActive(false);
+        backButton.SetActive(false);
     }
 }
