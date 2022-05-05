@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class InteractionScript : MonoBehaviour
 {
-
-    private bool triggerFlag;
     private bool defaultPosition;
 
     [SerializeField]
@@ -20,10 +18,8 @@ public class InteractionScript : MonoBehaviour
 
     public void Triggered()
     {
-        triggerFlag = !triggerFlag;
-
         //Interactions that will reset to default position
-        if (triggerFlag && defaultPosition)
+        if (defaultPosition)
         {
             defaultPosition = false;
 
@@ -45,7 +41,7 @@ public class InteractionScript : MonoBehaviour
             }
 
         }
-        else if (triggerFlag && !defaultPosition) //Interactions that will modify position
+        else if (!defaultPosition) //Interactions that will modify position
         {
             defaultPosition = true;
             if (axis.Equals("x"))
