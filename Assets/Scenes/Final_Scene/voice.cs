@@ -26,7 +26,7 @@ public class voice : MonoBehaviour
             pl.plan1=false;
         }
     }
- public void OnClickButton()
+    public void OnClickButton()
     { 
         NPCvoice.Play();
         voiceplay=true;
