@@ -20,7 +20,7 @@ public class MenuManager : MonoBehaviour
     private void SetupPanels()
     {
         character = GameObject.Find("/XR");
-        character.transform.position = new Vector3(32,1.5f,0);
+        character.transform.position = new Vector3(32-1.65f,1.5f,-2.38f);
         character.transform.rotation = Quaternion.Euler(0, -90, 0);
         searchMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Search UI");
         apartmentsMenu = GameObject.Find("/Main UI Group/MainMenuCanvas/Apartments UI");
