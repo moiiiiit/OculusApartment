@@ -56,37 +56,37 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Oculus/Interaction/Editor/Utils/HandAnimatorWizard.cs" />
-    <Compile Include="Assets/Oculus/Interaction/Editor/HandPosing/Visuals/HandPuppetEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/Selection/Controllers/ControllerOffsetEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/Poke/CylinderProximityFieldEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/EditorBase.cs" />
-    <Compile Include="Assets/Oculus/Interaction/Editor/PoseDetection/TransformConfigEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/Utils/HandGrabPoseWizard.cs" />
-    <Compile Include="Assets/Oculus/Interaction/Editor/PoseDetection/TransformFeatureStateThresholdsEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/Utils/OptionalDrawer.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/OVRIntegration/InputDataProviderUpdateTriggerOVREditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/PoseDetection/FeatureStateThresholdsEditor.cs" />
-    <Compile Include="Assets/Oculus/Interaction/Editor/HandPosing/HandGrab/HandGrabPointEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/Grab/GrabbingRuleEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/Poke/BoxProximityFieldEditor.cs" />
-    <Compile Include="Assets/Oculus/Interaction/Editor/Hands/HandVisualEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/PoseDetection/FingerFeatureStateThresholdsEditor.cs" />
+    <Compile Include="Assets/Oculus/Interaction/Editor/Selection/Hands/HandWristOffsetEditor.cs" />
+    <Compile Include="Assets/Oculus/Interaction/Editor/Poke/CircleProximityFieldEditor.cs" />
+    <Compile Include="Assets/Oculus/Interaction/Editor/HandPosing/SnapSurfaces/CylinderEditor.cs" />
+    <Compile Include="Assets/Oculus/Interaction/Editor/Utils/EditorConstants.cs" />
+    <Compile Include="Assets/Oculus/Interaction/Editor/UnityCanvas/CanvasCylinderEditor.cs" />
+    <Compile Include="Assets/Oculus/Interaction/Editor/Utils/HandAnimatorWizard.cs" />
+    <Compile Include="Assets/Oculus/Interaction/Editor/HandPosing/Visuals/HandPuppetEditor.cs" />
+    <Compile Include="Assets/Oculus/Interaction/Editor/PoseDetection/TransformConfigEditor.cs" />
+    <Compile Include="Assets/Oculus/Interaction/Editor/PoseDetection/TransformFeatureStateThresholdsEditor.cs" />
+    <Compile Include="Assets/Oculus/Interaction/Editor/HandPosing/HandGrab/HandGrabPointEditor.cs" />
+    <Compile Include="Assets/Oculus/Interaction/Editor/Hands/HandVisualEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/HandPosing/HandGrab/HandGrabInteractableEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/Selection/Hands/ConicalFrustumEditor.cs" />
-    <Compile Include="Assets/Oculus/Interaction/Editor/Selection/Hands/HandWristOffsetEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/HandPosing/SnapSurfaces/BoxEditor.cs" />
-    <Compile Include="Assets/Oculus/Interaction/Editor/Poke/CircleProximityFieldEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/UnityCanvas/CanvasRenderTextureEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/PoseDetection/FingerFeatureListPropertyDrawer.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/HandPosing/HandGrab/HandPoseEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/Poke/PokeInteractableEditor.cs" />
-    <Compile Include="Assets/Oculus/Interaction/Editor/HandPosing/SnapSurfaces/CylinderEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/Surfaces/PointablePlaneEditor.cs" />
-    <Compile Include="Assets/Oculus/Interaction/Editor/Utils/EditorConstants.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/PoseDetection/FeatureListPropertyDrawer.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/Surfaces/PointableCylinderEditor.cs" />
-    <Compile Include="Assets/Oculus/Interaction/Editor/UnityCanvas/CanvasCylinderEditor.cs" />
     <Compile Include="Assets/Oculus/Interaction/Editor/HandPosing/SnapSurfaces/SphereEditor.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -351,6 +351,33 @@
     <Reference Include="UnityEditor.iOS.Extensions">
       <HintPath>/Applications/Unity/Hub/Editor/2021.3.0f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="log4netPlastic">
+      <HintPath>Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Plastic.Newtonsoft.Json">
+      <HintPath>Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>Library/PackageCache/com.unity.analytics@3.6.12/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Plastic.Antlr3.Runtime">
+      <HintPath>Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip.Unity">
+      <HintPath>Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Unsafe">
+      <HintPath>Library/PackageCache/com.unity.burst@1.6.5/Unity.Burst.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Tracker.dll</HintPath>
+    </Reference>
+    <Reference Include="unityplastic">
+      <HintPath>Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+    </Reference>
     <Reference Include="GLTFSerialization">
       <HintPath>Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll</HintPath>
     </Reference>
@@ -360,32 +387,14 @@
     <Reference Include="Unity.Burst.Cecil.Pdb">
       <HintPath>Library/PackageCache/com.unity.burst@1.6.5/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
     </Reference>
-    <Reference Include="log4netPlastic">
-      <HintPath>Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst.Unsafe">
-      <HintPath>Library/PackageCache/com.unity.burst@1.6.5/Unity.Burst.Unsafe.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
       <HintPath>Library/PackageCache/com.unity.burst@1.6.5/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
-    </Reference>
-    <Reference Include="Ionic.Zip.Unity">
-      <HintPath>Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil">
       <HintPath>Library/PackageCache/com.unity.burst@1.6.5/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
       <HintPath>Library/PackageCache/com.unity.burst@1.6.5/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
-    </Reference>
-    <Reference Include="unityplastic">
-      <HintPath>Library/PackageCache/com.unity.collab-proxy@1.15.17/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
