@@ -12,6 +12,14 @@ We made all the floorplans ourselves, and are simply using the assets from the p
 
 Classic Picture Frame - https://assetstore.unity.com/packages/3d/props/furniture/classic-picture-frame-59038
 
+Homewares for light switch - https://assetstore.unity.com/packages/3d/props/free-homewares-asset-pack-142878
+
+TV sound - https://archive.org/details/tvtunes_31736
+
+Patio furniture: https://assetstore.unity.com/packages/3d/props/furniture/table-with-chairs-x3-free-101246#description
+
+plants: https://assetstore.unity.com/packages/3d/vegetation/plants/plants-150261#description
+
 Import -
 
 Oculus - https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022
